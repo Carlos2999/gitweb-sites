@@ -1,5 +1,5 @@
 # GitWeb Sites
-This is the repository containing the community of user created sites (referred from here on out as indexes) for the GitWeb client available with Ultreon's Devices Mod.
+This is the repository containing the community of user created sites (referred from here on out as indexes) for the GitWeb client available with Omnixerio Devices.
 
 ## Rules of Index creation
 1. You are limited to the use of domain suffixes presented in the suffix section of this file.
